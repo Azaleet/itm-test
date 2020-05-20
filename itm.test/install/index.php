@@ -9,7 +9,7 @@ if (class_exists('itm_test')) {
     return;
 }
 
-class 'itm_test'
+class itm_test
     extends CModule
 {
     public function __construct()
